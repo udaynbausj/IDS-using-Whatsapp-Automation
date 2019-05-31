@@ -20,4 +20,3 @@ Application : This project alerts owner/ administrator with 5 different features
 
 On Working : To alert owner with image of intruder.
 
-https://img.shields.io/github/issues/udaynbausj/IDS-using-Whatsapp-Automation.svg
